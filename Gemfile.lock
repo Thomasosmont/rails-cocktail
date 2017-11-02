@@ -193,6 +193,7 @@ PLATFORMS
 DEPENDENCIES
   autoprefixer-rails
   bootstrap-sass
+  bundler
   byebug
   coffee-rails (~> 4.2)
   font-awesome-sass
